@@ -1,0 +1,6 @@
+C:\Users\oscar\source\repos\Sistema_Inventario\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\oscar\source\repos\Sistema_Inventario\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\oscar\source\repos\Sistema_Inventario\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Sistema_Inventario\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Sistema_Inventario\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\oscar\source\repos\Sistema_Inventario\CapaEntidades\obj\Debug\CapaEntidades.pdb
