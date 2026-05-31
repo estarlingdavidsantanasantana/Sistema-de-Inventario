@@ -31,7 +31,7 @@ Este trabajo consiste de agregar proveedores clientes productos y entre otras co
 <img src="https://github.com/estarlingdavidsantanasantana/Sistema-de-Inventario/blob/master/Captura%20de%20pantalla%202026-05-31%20181340.png?raw=true">
 
 <h3> Proveedores </h3>
-<img src="">
+<img src="https://github.com/estarlingdavidsantanasantana/Sistema-de-Inventario/blob/master/Captura%20de%20pantalla%202026-05-31%20180346.png?raw=true">
 
 <h3> Movimiento </h3>
 <img src="https://github.com/estarlingdavidsantanasantana/Sistema-de-Inventario/blob/master/Captura%20de%20pantalla%202026-05-31%20180743.png?raw=true">
@@ -39,7 +39,7 @@ Este trabajo consiste de agregar proveedores clientes productos y entre otras co
 <h3> Clientes </h3>
 <img src="">
 
-<h3> Usuarios </h3>
+<h3> Reporte </h3>
 <img src="">
 
 <hr>
