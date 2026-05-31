@@ -1,4 +1,4 @@
-> DATOS DEL PROYECTO</h1>
+ DATOS DEL PROYECTO</h1>
 
 <p><strong>Nombre:</strong> Starling David Santana S.</p>
 <p><strong>Curso:</strong> 5TO D2</p>
