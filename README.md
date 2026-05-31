@@ -14,10 +14,7 @@ Este trabajo consiste de agregar proveedores clientes productos y entre otras co
 
 </p>
 
-<hr>
-</p>
 
-<hr>
 
 <p>
 </a>
