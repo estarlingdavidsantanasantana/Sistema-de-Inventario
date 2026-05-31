@@ -37,7 +37,7 @@ Este trabajo consiste de agregar proveedores clientes productos y entre otras co
 <img src="https://github.com/estarlingdavidsantanasantana/Sistema-de-Inventario/blob/master/Captura%20de%20pantalla%202026-05-31%20180743.png?raw=true">
 
 <h3> Clientes </h3>
-<img src="">
+<img src="https://github.com/estarlingdavidsantanasantana/Sistema-de-Inventario/blob/master/Captura%20de%20pantalla%202026-05-31%20180405.png?raw=true">
 
 <h3> Reporte </h3>
 <img src="">
