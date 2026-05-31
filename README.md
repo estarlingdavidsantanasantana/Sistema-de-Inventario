@@ -2,7 +2,7 @@
 
 <p><strong>Nombre:</strong> Starling David Santana S.</p>
 <p><strong>Curso:</strong> 5TO D2</p>
-<p><strong>Número de Lista: 17 </strong> #17</p>
+<p><strong>Número de Lista:  </strong> #17</p>
 
 <hr>
 
