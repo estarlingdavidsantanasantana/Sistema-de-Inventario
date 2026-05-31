@@ -1,4 +1,4 @@
-<h1 align="center"> DATOS DEL PROYECTO</h1>
+<img width="1145" height="729" alt="image" src="https://github.com/user-attachments/assets/220195e9-0451-4415-8e97-e75228ef098c" /><h1 align="center"> DATOS DEL PROYECTO</h1>
 
 <p><strong>Nombre:</strong> Starling David Santana S.</p>
 <p><strong>Curso:</strong> 5TO D2</p>
