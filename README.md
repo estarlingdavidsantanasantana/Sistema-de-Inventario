@@ -42,5 +42,5 @@ Este trabajo consiste de agregar proveedores clientes productos y entre otras co
 <hr>
 
 <p align="center">
- Proyecto Final Sistema de Ventas 
+ Fin del Sistema
 </p>
